@@ -9,12 +9,13 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  
+ 
+  About me:
   ---
-- :telescope: I’m currently looking for full-time **software developer** positions.
+- :telescope: I’m currently looking for full-time software developer positions.
 
-- :seedling: Practicing different **frameworks and languages**.
+- :seedling: Practicing different frameworks and languages.
 
-- :zap: In my free time I love to **play games and keep active**.
-  ---
+- :zap: In my free time I love to play games and keep active.
+
 ### :fire: My Stats :
