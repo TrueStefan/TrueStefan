@@ -19,3 +19,5 @@
 - :zap: In my free time I love to play games and keep active.
 
 ### :fire: My Stats :
+**https://github-readme-streak-stats.herokuapp.com/?user=TrueStefan**
+</div>
