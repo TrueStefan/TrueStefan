@@ -12,7 +12,7 @@
  
   About me:
   ---
-- :telescope: I’m currently looking for full-time software developer positions.
+- :telescope: I’m currently working as an application programmer.
 
 - :seedling: Practicing different frameworks and languages.
 
