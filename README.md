@@ -16,7 +16,7 @@
 
 - :seedling: Practicing different frameworks and languages.
 
-- :zap: In my free time I love to play games, record videos and keep active.
+- :zap: In my free time I love to keep active.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TrueStefan&theme=dark&background=000000)](https://git.io/streak-stats)
